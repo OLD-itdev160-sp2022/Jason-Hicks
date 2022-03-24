@@ -1,0 +1,24 @@
+body
+{
+    font-family: "latin", Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+
+.messages
+{
+    margin-bottom: 20px;
+}
+
+.out-message
+{
+    padding: 5px;
+    background-color: lightblue;
+}
+
+.in-message 
+{
+    padding: 5px;
+    background-color: lightseagreen;
+}
